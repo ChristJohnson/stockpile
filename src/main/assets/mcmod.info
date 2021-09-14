@@ -1,0 +1,11 @@
+[{
+	"modid": "sp",
+	"name": "Stockpile",
+	"description": "Another trains mod! :)",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"logoFile": "assets/stockpile/textures/stockpile_logo.png",
+	"url": "github.com/ChazJensen/stockpile",
+	"authorList": ["ChristJohnson"],
+	"credits": "sweed, arb, and all other modelers"
+}]
